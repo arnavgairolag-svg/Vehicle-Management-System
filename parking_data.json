@@ -1,0 +1,43 @@
+{
+    "total_spots": 30,
+    "spots": [
+        null,
+        {
+            "name": "Matrix",
+            "type": "Sedan",
+            "emoji": "\ud83d\ude97",
+            "hours": 2,
+            "cost": 10
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "earnings": 10,
+    "total_cars": 1
+}
